@@ -1,4 +1,42 @@
+:root {
+  --coal-color: rgb(44, 43, 43);
+}
+
 h1 {
-  font-family: "Cookie", cursive;
-  font-size: 50px;
+  font-family: "Rationale", sans-serif;
+  font-size: 96px;
+  color: #ffffff;
+}
+
+h2 {
+  font-family: Roboto;
+  font-size: 45px;
+  color: rgba(255, 255, 255, 0.753);
+}
+
+.curly-dots {
+  font-family: Roboto;
+  font-size: 36px;
+  color: #0be4f2;
+}
+
+.hero-description {
+  font-family: Roboto;
+  font-size: 28px;
+  color: rgba(255, 255, 255, 0.753);
+}
+
+.hero {
+  background-color: black;
+  text-align: center;
+  padding: 160px 20px;
+}
+
+.btn-coal {
+  background: var(--coal-color);
+  border-radius: 6px;
+  color: #0be4f2;
+  font-size: 16px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  padding: 10px 20px;
 }
