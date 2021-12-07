@@ -53,3 +53,13 @@ h3 {
   font-family: "Montserrat Subrayada", sans-serif;
   font-size: 36px;
 }
+
+@media (max-width: 900px) {
+  h1 {
+    font-size: 44;
+  }
+
+  .hero {
+    padding: 80px 20px;
+  }
+}
