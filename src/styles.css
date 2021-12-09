@@ -3,6 +3,10 @@
   --black-color: black;
 }
 
+.logo {
+  max-width: 160px;
+}
+
 h1 {
   font-family: "Rationale", sans-serif;
   font-size: 96px;
