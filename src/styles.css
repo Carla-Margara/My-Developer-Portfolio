@@ -114,6 +114,12 @@ h3 {
   color: #000000;
 }
 
+.title-hero h5 {
+  font-family: "Rationale", sans-serif;
+  font-size: 54px;
+  color: #ffffff;
+}
+
 .content-name {
   font-family: "Montserrat", sans-serif;
   font-variant: small-caps;
@@ -170,19 +176,18 @@ h3 {
 }
 
 .contact-info {
-  color: #ffffff;
+  color: #020202;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
     Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
   font-size: 18px;
 }
 
 .contact-info a {
-  color: #dadada;
+  color: #303030;
   font-family: "Montserrat", sans-serif;
 }
 
 .contact-card {
-  color: var(--black-color);
   text-align: center;
 }
 
@@ -191,6 +196,6 @@ h3 {
 }
 
 .icon {
-  color: #ffffff;
+  color: #000000;
   font-size: 20px;
 }
