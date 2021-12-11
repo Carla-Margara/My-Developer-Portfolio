@@ -7,6 +7,10 @@
   max-width: 200px;
 }
 
+nav a {
+  font-size: 18px;
+}
+
 h1 {
   font-family: "Rationale", sans-serif;
   font-size: 96px;
@@ -185,6 +189,10 @@ h3 {
 .contact-info a {
   color: #303030;
   font-family: "Montserrat", sans-serif;
+}
+
+.contact-info a:hover {
+  color: rgb(128, 128, 128);
 }
 
 .contact-card {
