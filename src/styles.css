@@ -7,6 +7,10 @@
   max-width: 160px;
 }
 
+.navbarNav ul {
+  text-align: right;
+}
+
 h1 {
   font-family: "Rationale", sans-serif;
   font-size: 96px;
