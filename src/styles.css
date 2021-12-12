@@ -15,14 +15,16 @@ nav a {
 }
 
 nav i {
-  color: #000000;
+  color: #0be3f2;
   padding: 10px 12px;
   border-radius: 50%;
-  background: #0be3f28a;
+  background: rgb(44, 44, 44);
+  border-color: rgb(44, 44, 44);
 }
 
 nav i:hover {
-  background: rgb(44, 44, 44);
+  background: rgb(71, 71, 71);
+  border-color: rgb(71, 71, 71);
   color: white;
   transition: all 200ms ease-in-out;
 }
@@ -255,12 +257,16 @@ h3 {
   padding: 6px 12px;
   border-radius: 50%;
   font-size: 18px;
+  background: rgb(44, 44, 44);
+  border-color: rgb(44, 44, 44);
+
+  color: #0be4f2;
 }
 
 .footer .social-links a:hover {
-  background: rgb(44, 44, 44);
-  color: #0be4f2;
-  border-color: #0be4f2;
+  background: rgb(71, 71, 71);
+  border-color: rgb(71, 71, 71);
+  color: white;
   transition: all 200ms ease-in-out;
 }
 
