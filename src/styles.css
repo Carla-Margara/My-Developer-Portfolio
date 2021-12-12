@@ -16,7 +16,7 @@ nav a {
 
 nav i {
   color: #000000;
-  padding: 10px 14px;
+  padding: 10px 12px;
   border-radius: 50%;
   background: #0be3f28a;
 }
@@ -252,9 +252,9 @@ h3 {
 
 .footer .social-links a {
   margin: 0 20px;
-  padding: 10px 14px;
+  padding: 6px 12px;
   border-radius: 50%;
-  font-size: 12px;
+  font-size: 18px;
 }
 
 .footer .social-links a:hover {
