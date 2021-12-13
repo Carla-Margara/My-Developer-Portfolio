@@ -135,6 +135,10 @@ h3 {
   .hero {
     padding: 80px 20px;
   }
+
+  .preview-text a {
+    font-size: 20px;
+  }
 }
 
 .about-title {
